@@ -1,0 +1,42 @@
+/* *******************Feature overview***********************  */
+
+.feature-overview {
+    border-top: #f8f9fa solid 5px;
+    padding: 40px;
+    text-align: center;
+  }
+  
+  .feature-overview h2 {
+    font-size: 36px;
+    margin-bottom: 20px;
+  }
+  
+  .feature-overview ul {
+    list-style-type: none;
+    padding: 0;
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+  }
+  
+  .feature-overview li {
+    width: 200px;
+    margin: 20px;
+  }
+  
+  .feature-overview li img {
+    max-width: 100px;
+    margin-bottom: 10px;
+  }
+  
+  .feature-overview li h3 {
+    font-size: 18px;
+    margin-bottom: 10px;
+  }
+  
+  .feature-overview li p {
+    font-size: 14px;
+    color: #777;
+  }
+  
+  
