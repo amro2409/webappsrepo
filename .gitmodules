@@ -1,0 +1,3 @@
+[submodule "academic-excuse-sysytem"]
+	path = academic-excuse-sysytem
+	url = git@github.com:amro2409/webappsrepo.git
